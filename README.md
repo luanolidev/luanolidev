@@ -1,7 +1,7 @@
 
 - 💻 Atualmente trabalhando em: [Santa Group](https://santagroup.com.br)
-- 📫 Entre em contato: [contact](swervinstudio@gmail.com)
-- 📱 Meu Discord: Leitão#0027
+- 📫 Entre em contato: [contact](valleystoreatendimento@gmail.com)
+- 📱 Meu Discord: @Shotzzy#5374 
 
 ### ⚡ Tecnologias:
 <a href="https://skillicons.dev">
