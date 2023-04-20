@@ -5,5 +5,5 @@
 
 ### ⚡ Tecnologias:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,lua,ts,nodejs,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,lua,ts,nodejs,mongodb,mysql" />
 </a>
