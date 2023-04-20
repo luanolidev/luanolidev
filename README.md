@@ -1,7 +1,7 @@
 
-- 💻 Atualmente trabalhando em: [Valley Store](https://santagroup.com.br)
+- 💻 Atualmente trabalhando em: [PARADOX STORE™ 💫](https://discord.gg/BVXfN4ckSR)
 - 📫 Entre em contato: [contact](valleystoreatendimento@gmail.com)
-- 📱 Meu Discord: @Shotzzy#5374 
+- 📱 Meu Discord: @Shotzzy<3#5281
 
 ### ⚡ Tecnologias:
 <a href="https://skillicons.dev">
