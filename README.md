@@ -1,10 +1,8 @@
 ## Oiii eu sou a Luan
 
-### :zap: Tecnologias:
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,lua,nodejs,mongodb,mysql,html,css" />
-</a>
+
+
   
   ##
 
@@ -15,6 +13,10 @@
   <div>
     <p style="text-align: center;">
  
+        <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,lua,nodejs,mongodb,mysql,html,css" />
+</a>
+        
 
 <div> 
   <a href="https://www.youtube.com/channel/UCabOjENmrcVjWQtsnAkVq9Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
