@@ -31,6 +31,6 @@
 <section>
 
   <h2>Visitor count</h2>
-  <img src="https://profile-counter.glitch.me/%7Bjvrl18%7D/count.svg" />
+  <img src="https://profile-counter.glitch.me/%Shotzzy157%7D/count.svg" />
   <!-- Took from https://github.com/insolitum/insolitum -->
 </section>
