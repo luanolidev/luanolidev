@@ -12,11 +12,6 @@
 <div style="display: flex; justify-content: center" align="center">
   <div>
     <p style="text-align: center;">
- 
-     <section align="center">
-        <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,lua,nodejs,mongodb,mysql,html,css" />
- <p style="text-align: center;">
         
 
 <div> 
