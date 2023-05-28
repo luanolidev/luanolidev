@@ -16,8 +16,11 @@
   
 </div>
 
-<div align="center">
+<section align="center">
+<img src="https://media.discordapp.net/attachments/1105123172552036403/1105142392341925909/coding_stats.png">
+</section>
 
+<div align="center">
   <a href="https://github.com/Shotzzy157">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Shotzzy157&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shotzzy157&layout=compact&langs_count=7&theme=dark"/>
