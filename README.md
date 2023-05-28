@@ -1,19 +1,6 @@
 ## Oiii eu sou a Luan
 
 
-
-
-  
-
-
-<section align="center">
-  <img src="https://media.discordapp.net/attachments/1105123172552036403/1105141174332833963/technologies.png">
-</section>
-<div style="display: flex; justify-content: center" align="center">
-  <div>
-    <p style="text-align: center;">
-        
-
 <div> 
   <a href="https://www.youtube.com/channel/UCabOjENmrcVjWQtsnAkVq9Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/luanoliveira7ofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
