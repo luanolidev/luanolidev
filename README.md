@@ -1,4 +1,4 @@
-## Oiii eu sou a Shotzzy
+## Oiii eu sou a Luan
 
 ### :zap: Tecnologias:
 
