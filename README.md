@@ -4,7 +4,7 @@
 
 
   
-  ##
+
 
 <section align="center">
   <img src="https://media.discordapp.net/attachments/1105123172552036403/1105141174332833963/technologies.png">
@@ -13,9 +13,10 @@
   <div>
     <p style="text-align: center;">
  
+     <section align="center">
         <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,lua,nodejs,mongodb,mysql,html,css" />
-</a>
+ <p style="text-align: center;">
         
 
 <div> 
