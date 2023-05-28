@@ -3,7 +3,7 @@
 ### :zap: Tecnologias:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,lua,nodejs,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=ts,js,lua,nodejs,mongodb,mysql,html,css" />
 </a>
   
   ##
