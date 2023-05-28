@@ -1,4 +1,8 @@
-## Oiii eu sou a Luan
+  
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/edududuribeiro/">Luan 😃️</a>
+  </h1>
 
 <div> 
   <a href="https://www.youtube.com/channel/UCabOjENmrcVjWQtsnAkVq9Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
