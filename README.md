@@ -15,3 +15,11 @@
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+
+<section>
+
+  <h2>Visitor count</h2>
+  <img src="https://profile-counter.glitch.me/%7Bjvrl18%7D/count.svg" />
+  <!-- Took from https://github.com/insolitum/insolitum -->
+</section>
