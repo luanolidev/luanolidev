@@ -1,7 +1,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Luan 😃️</a>
+    <a href="https://instagram.com/luanoliveira7ofc">Luan 😃️</a>
   </h1>
 
 
