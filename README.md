@@ -25,6 +25,7 @@
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div><br>
 
@@ -36,6 +37,7 @@
 
 <section>
   <h2>Visitor count</h2>
-  <img src="https://profile-counter.glitch.me/Shotzzy157/count.svg" />
+  <img src="https://profile-counter.glitch.me/Shotzzy157/count.svg"
+ />
   <!-- Took from https://github.com/insolitum/insolitum -->
 </section>
