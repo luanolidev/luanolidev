@@ -1,7 +1,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://instagram.com/luanoliveira7ofc">Shadow 😃️</a>
+    <a href="https://instagram.com/luanoliveira7ofc">Shotzzy 😃️</a>
   </h1>
 
 
