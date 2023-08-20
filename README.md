@@ -6,9 +6,6 @@
 
 
 
-<section align="center">
-<img src="https://media.discordapp.net/attachments/1105123172552036403/1105142392341925909/coding_stats.png">
-</section>
 
 <div align="center">
   <a href="https://github.com/Shotzzy157">
