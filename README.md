@@ -22,7 +22,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div><br>
 
-<div style="display: inline_block">
+<div align="center" valign="center"><br>
   <h3>Ferramentas e Tecnologias<h3/>
 
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
