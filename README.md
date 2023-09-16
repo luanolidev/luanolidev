@@ -25,7 +25,7 @@
 <div align="center" valign="center"><br>
   <h3>Ferramentas e Tecnologias<h3/>
 
-  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript">
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center"  height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
