@@ -1,40 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shotzzy</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #1a1a1a;
-            color: #ffffff;
-            text-align: center;
-        }
-
-        h1 {
-            font-size: 24px;
-        }
-
-        h2 {
-            font-size: 20px;
-        }
-
-        div {
-            margin-top: 20px;
-        }
-
-        a {
-            text-decoration: none;
-            color: #ff69b4;
-        }
-
-        img {
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
     <h1>Olá! Tudo bem? Eu sou o <a href="https://instagram.com/luanoliveira7ofc">Shotzzy<3 🥰</a></h1>
 
     <div>
@@ -73,5 +36,3 @@
         <h2>Contagem de visualizações</h2>
         <img src="https://profile-counter.glitch.me/Shotzzy157/count.svg" alt="Contagem de visualizações">
     </section>
-</body>
-</html>
