@@ -21,7 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shotzzy157&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shotzzy157&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://www.udemy.com/certificate/UC-f21a4418-52d4-4fe4-a3a0-d4d55be19334/">
+<img src="[https://www.udemy.com/certificate/UC-f21a4418-52d4-4fe4-a3a0-d4d55be19334/](https://udemy-certificate.s3.amazonaws.com/image/UC-f21a4418-52d4-4fe4-a3a0-d4d55be19334.jpg?v=1697509447000)">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shotzzy&icon=0&color=10)](https://visitcount.itsvg.in)
