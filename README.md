@@ -21,6 +21,7 @@
 <img alt="ReactJS" src="https://img.shields.io/badge/react_JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
 <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 
 ### Database Management System :
 
