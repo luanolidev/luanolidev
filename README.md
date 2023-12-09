@@ -44,5 +44,6 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
 
+<!--
 # 📊 Estatísticas do GitHub:
-![](https://github-readme-streak-stats.herokuapp.com/?user=luanolidev&theme=radical&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luanolidev&theme=radical&hide_border=true)<br/>-->
