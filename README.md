@@ -48,4 +48,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
+# 📊 Estatísticas do GitHub:
+![](https://github-readme-streak-stats.herokuapp.com/?user=luanolidev&theme=radical&hide_border=true)<br/>
 -->
