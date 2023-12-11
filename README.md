@@ -29,3 +29,5 @@
 <img alt="Mysql" src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 
 ### DevOps tools / OS :
+
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
