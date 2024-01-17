@@ -27,7 +27,7 @@
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 <img alt="Mysql" src ="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-<img alt="FireBase" src ="https://img.shields.io/badge/firebase-5ad42.svg?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
+<img alt="FireBase" src ="https://img.shields.io/badge/firebase-f5ad42.svg?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
 
 ### DevOps tools / OS :
 
